@@ -12,5 +12,8 @@ We desperately needed a database solution: a system which would allow employees 
 Current tech stack is:
 
 Backend: Python, Flask 
+
 Database: MongoDB 
-Frontend: HTML
+
+Frontend: HTML, CSS
+
