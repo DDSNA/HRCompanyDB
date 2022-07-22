@@ -9,6 +9,7 @@ We desperately needed a database solution: a system which would allow employees 
 4) Scale with a big number of candidates in time
 
 
+
 Current tech stack is:
 
 Backend: Python, Flask (currently not the focus)
