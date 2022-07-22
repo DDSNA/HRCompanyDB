@@ -11,9 +11,10 @@ We desperately needed a database solution: a system which would allow employees 
 
 Current tech stack is:
 
-Backend: Python, Flask 
+Backend: Python, Flask (currently not the focus)
 
 Database: MongoDB 
 
-Frontend: HTML, CSS
+Frontend: HTML, CSS (currently the focus)
 
+Technolgies I would love to use: Angular/React; Tailwind CSS; node.js; 
