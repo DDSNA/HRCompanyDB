@@ -2,8 +2,6 @@
     font-style: italic;
 }
 
-[em]    {
-    font-style: oblique;
-    font-weight: 500;
-    flex: auto;
+#specialaboutmep {
+    font-size: larger;
 }
