@@ -3,3 +3,9 @@
     font-weight: 500;
     flex: auto;
 }
+
+[class~='aboutmearticle']    {
+    font-weight: 800;
+    font-size: small;
+    font-style: italic;
+}
