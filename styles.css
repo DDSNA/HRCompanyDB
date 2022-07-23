@@ -1,11 +1,23 @@
-[em]    {
-    font-style: oblique;
-    font-weight: 500;
-    flex: auto;
+[class="aboutmep"]    {
+    font-style: italic;
 }
 
-[class~='aboutmearticle']    {
-    font-weight: 800;
-    font-size: small;
+/* atributes get [],classes get the "dot" .class , ids get # */
+#specialaboutmep {
+    font-size: larger;
+}
+
+.aboutmesectionclass {
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#aboutmesectionid {
     font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#aboutmelist1 {
+    font-stretch: expanded;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
